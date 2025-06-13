@@ -1,0 +1,18 @@
+{
+    "id": "auto-unlocker",
+    "name": "Auto Unlocker",
+    "version": "1.0.0",
+    "author": "YourName",
+    "description": "Плагин автоматически вводит код /unlock, когда сервер его запрашивает.",
+    "main": "index.js",
+    "tags": ["Утилиты", "Автоматизация"],
+    "supportedHosts": [],
+    "settings": {
+      "unlockCode": {
+        "type": "string",
+        "label": "Код для /unlock",
+        "description": "Введите 4 цифры, которые будут использоваться в команде /unlock. Например, 1234.",
+        "default": ""
+      }
+    }
+  }
