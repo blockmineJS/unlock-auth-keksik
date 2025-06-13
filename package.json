@@ -1,7 +1,7 @@
 {
-    "id": "auto-unlocker",
-    "name": "Auto Unlocker",
-    "version": "1.0.0",
+    "id": "unlock-auth-keksik",
+    "name": "unlock keksik servers",
+    "version": "1.0.1",
     "author": "YourName",
     "description": "Плагин автоматически вводит код /unlock, когда сервер его запрашивает.",
     "main": "index.js",
